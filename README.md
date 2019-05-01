@@ -1,3 +1,4 @@
-# AI_BOOK
+# Mobile Artificial Intelligence Projects 
 
-COde used in the Desing your own AI App book
+Code used in the 'Mobile Artificial Intelligence Projects' book. 
+  Includes: prediction model for real state value and app in IOS and Andriod
